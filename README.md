@@ -3,8 +3,8 @@
 > “Progress over perfection — small daily steps build unstoppable momentum.”  
 
 ## 🏁 Personal Objectives
-- [ ] Launch this repo with a clear roadmap (this README)
-- [ ] Enable **GitHub Pages** to showcase each project as it’s completed
+- [X] Launch this repo with a clear roadmap (this README)
+- [X] Enable **GitHub Pages** to showcase each project as it’s completed
 - [ ] Commit **every day** — even if it’s just one line or one fix
 - [ ] Complete **3–4 real frontend projects** in 6 weeks
 - [ ] Document progress with screenshots, reflections, and lessons learned
