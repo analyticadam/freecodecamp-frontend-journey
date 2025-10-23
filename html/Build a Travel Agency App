@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"></meta>
+<meta name="description" content=" curated travel packages including group trips, private tours, and top itineraries across Italy—Rome, national parks, and southern islands."></meta>
+<title>Travel Agency Page</title>
+</head>
+<body>
+  <h1>Travel Destinations</h1>
+  <p>Below you will see the various travel packages that our agency offers:</p>
+
+  <h2>Packages</h2>
+  <p>Please see the various travel packages below:</p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+
+  <h2>Top Itineraries</h2>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Rome and Central Italy">
+    </a>
+    <figcaption>Rome and Central Italy</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Nature and National Parks">
+    </a>
+    <figcaption>Nature and National Parks</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="South Italy and Islands">
+    </a>
+    <figcaption>South Italy and Islands</figcaption>
+  </figure>
+</body>
+</html>
