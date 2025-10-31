@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+<section>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="rubix cube">
+    <h2>Your Cart</h2>
+</section>
+<section>
+  <h2>Payment Information</h2>
+
+  <form>
+    <!-- Card Name -->
+    <label for="card-name">
+      Name on Card 
+      <span aria-hidden="true">*</span>
+    </label>
+    <input 
+      type="text" 
+      id="card-name" 
+      name="card-name" 
+      required
+    >
+
+    <br><br>
+
+    <!-- Card Number -->
+    <label for="card-number">
+      Card Number 
+      <span aria-hidden="true">*</span>
+    </label>
+    <input 
+      type="text" 
+      id="card-number" 
+      name="card-number" 
+      aria-describedby="card-number-help" 
+      required
+    >
+    <p id="card-number-help">
+      Enter the 16-digit number found on the front of your credit or debit card.
+    </p>
+  </form>
+</section>
+
+</body>
+
+</html>
