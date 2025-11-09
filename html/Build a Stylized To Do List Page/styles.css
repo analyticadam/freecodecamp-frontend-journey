@@ -1,0 +1,29 @@
+/* Structure helpers (optional, won't affect tests) */
+body { font-family: system-ui, Arial, sans-serif; line-height: 1.4; padding: 2rem; }
+.todo-list { list-style: disc; gap: 1rem; }
+.sub-item { list-style: circle; margin: .5rem 0 0 1.25rem; }
+
+/* Remove default underline for all anchors */
+a { text-decoration: none; }
+
+/* Link states for .sub-item-link (choose your own colors if you want) */
+.sub-item-link:link {
+  color: #1e90ff;
+}
+
+.sub-item-link:visited {
+  color: #6a5acd;
+}
+
+.sub-item-link:hover {
+  color: #ff8c00;
+}
+
+.sub-item-link:focus {
+  outline: 3px solid #22c55e;
+  outline-offset: 2px;
+}
+
+.sub-item-link:active {
+  color: #dc2626;
+}
